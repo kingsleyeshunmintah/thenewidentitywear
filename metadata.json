@@ -1,0 +1,6 @@
+{
+  "name": "The New Identity Wear",
+  "description": "An elegant, premium, and modern e-commerce platform for The New Identity Wear, a Christian streetwear brand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

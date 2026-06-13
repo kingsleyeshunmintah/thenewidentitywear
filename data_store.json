@@ -1,0 +1,96 @@
+{
+  "subscribers": [],
+  "users": [
+    {
+      "id": "usr-admin",
+      "name": "The New Identity Admin",
+      "email": "admin@thenewidentitywear.com",
+      "phone": "0554312323",
+      "passwordHash": "25e25a9ea68cb2887dc9de974848493f440c2215c85f4101229a45b81cbaffd7",
+      "role": "super-admin",
+      "createdAt": "2026-06-13T15:02:29.493Z"
+    },
+    {
+      "id": "usr-customer",
+      "name": "Kwame Mensah",
+      "email": "kwame@example.com",
+      "phone": "0202011311",
+      "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+      "role": "customer",
+      "createdAt": "2026-06-13T15:02:29.494Z"
+    },
+    {
+      "id": "usr-1781362949499",
+      "name": "Eshun Kingsley",
+      "email": "kingsleyeshunmintah@gmail.com",
+      "phone": "",
+      "passwordHash": "27b8f3b92618603d8041a0dc00dfd3a25cedc5cfa777be2b5d28c7a02d475f76",
+      "role": "customer",
+      "createdAt": "2026-06-13T15:02:29.499Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-1",
+      "orderNumber": "TNI-98312",
+      "status": "Processing",
+      "items": [
+        {
+          "id": "prod-1_M_Vintage White",
+          "productId": "prod-1",
+          "productName": "New Creation Tee",
+          "productImage": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=800&q=80",
+          "price": 150,
+          "size": "M",
+          "color": {
+            "name": "Vintage White",
+            "hex": "#FAF9F6"
+          },
+          "quantity": 1
+        }
+      ],
+      "subtotal": 150,
+      "shippingFee": 20,
+      "discountAmount": 0,
+      "total": 170,
+      "shippingAddress": {
+        "fullName": "Kwame Mensah",
+        "phone": "0202011311",
+        "addressLine": "House 42, Spintex Road",
+        "city": "Accra",
+        "region": "Greater Accra"
+      },
+      "paymentMethod": "Mobile Money",
+      "paymentStatus": "Completed",
+      "paymentReference": "pstk_ref_98231023",
+      "createdAt": "2026-06-13T10:02:29.494Z"
+    }
+  ],
+  "testimonials": [],
+  "coupons": [
+    {
+      "code": "NEWCREATION10",
+      "type": "percentage",
+      "value": 10
+    },
+    {
+      "code": "TNI20",
+      "type": "percentage",
+      "value": 20
+    },
+    {
+      "code": "ACCRAFREE",
+      "type": "fixed",
+      "value": 20,
+      "minSpend": 150
+    }
+  ],
+  "contacts": [],
+  "settings": {
+    "shippingFeeDefault": 20,
+    "taxRate": 0,
+    "contactPhone": "0554312323",
+    "contactEmail": "thenewidentitywear@gmail.com",
+    "whatsAppNumber": "233554312323"
+  }
+}

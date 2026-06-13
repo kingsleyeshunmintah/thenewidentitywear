@@ -21,3 +21,5 @@ View your app in AI Studio: https://ai.studio/apps/5f6528c6-a0f1-46c8-b820-4d3b0
    
 Administrative Email: admin@thenewidentitywear.com
 Secure Password: AdminSecure2026
+# thenewidentitywear
+At The New Identity Wear, we believe that what you wear should reflect who you are becoming. Inspired by 2 Corinthians 5:17, our mission is to empower believers to display their faith boldly and unapologetically."  ...
